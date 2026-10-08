@@ -1,2 +1,6 @@
 /.quarto/
 **/*.quarto_ipynb
+/_site/
+
+# Old draft blog, kept locally as reference only
+/joey-research-blog/
