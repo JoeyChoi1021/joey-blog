@@ -1,0 +1,35 @@
+---
+title: "R Markdown and friends"
+description: "An experiment in using iframes and interactive slides to teach R Markdown"
+date: "2022-08-10"
+categories:
+  - markdown
+  - teaching
+tags:
+  - r markdown
+  - reveal.js
+  - quarto
+  - rstudio visual mode
+
+---
+
+I'm Joey (Wonhyung) Choi, an MSc Biology student at the University of Zurich. I work on **single-cell chromatin accessibility**: scATAC-seq and multiome (RNA + ATAC) sequencing. I do both the bench work and the analysis, so I call myself a *wet-dry hybrid*.
+
+Outside the lab I co-founded **type\_**, a dating app, so some posts here will be about building software too.
+
+## Why a blog?
+
+Writing things down is how I check that I actually understand them. This is where those notes go:
+
+```{mermaid}
+flowchart LR
+  A[🧪 bench] --> B[💻 analysis]
+  B --> C[📝 write it up]
+  C -.-> A
+```
+
+## What to expect
+
+- Methods explained with diagrams — I learn visually
+- Pipelines and the mistakes I made building them
+- The occasional note on shipping an app

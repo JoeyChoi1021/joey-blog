@@ -1,1 +1,7 @@
 /* css styles */
+
+/* Break long unspaced strings (genomic coordinates, DNA sequences, URLs)
+   only when they would otherwise push the page sideways on a phone. */
+main.content {
+  overflow-wrap: break-word;
+}

@@ -1,2 +1,18 @@
 /.quarto/
 **/*.quarto_ipynb
+/_site/
+
+# Old draft blog, kept locally as reference only
+/joey-research-blog/
+
+# Unpublished Domcke Lab ELN analyses (copied from ~/domcke_eln_joey).
+# Local only until the lab approves publishing; delete a line to make that post public.
+/Analysis/2026-06-09-candidate-primer-regions/
+/Analysis/2026-07-29-pc-selection-v2/
+/Analysis/2026-08-18-final-qpcr-analysis/
+/Analysis/2026-08-21-ampure-bead-size-selection/
+/Analysis/2026-08-21-atac-seq-vs-qpcr/
+/Analysis/2026-08-25-atac-qpcr-vs-atac-seq/
+/Analysis/2026-09-02-seq-vs-qpcr-correlation/
+
+/.luarc.json
