@@ -8,7 +8,16 @@ This page will be a check list where i can reroute my self and focus on a single
 
 ---
 
-- [ ] job application
-- [ ] thesis writing 
-- [ ]
-- [ ]
+- [ ] Job application
+- [ ] thesis writing - resolve all commentary till Tue. 8 AM
+- [ ] LA Korea consulate contact:
+    - number: +1-213-385-9300 (emergency after hours: +1-213-700-1147)
+    - address: 3243 Wilshire Blvd, Los Angeles, CA 90010
+    - hours: Mon–Fri 9:00–17:00 (consular services until 16:00)
+    - email: service-la@mofa.go.kr
+- [ ] LA Swiss consulate contact:
+    - number: +1-424-500-2414
+    - address: 5901 W Century Blvd, Suite 750, Los Angeles, CA 90045
+    - email: losangeles@honrep.ch
+    - consular services go through San Francisco: +1-415-788-2272, sanfrancisco@eda.admin.ch
+- [ ] Tell WS for police certificate in China
