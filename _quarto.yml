@@ -3,14 +3,25 @@ project:
   render:
     - "*.qmd"
     - "!joey-research-blog/" # old draft, kept locally as reference only
+  resources:
+    - files/ # copied to the website as-is (e.g. the CV PDF)
 
 website:
-  description: "Notes on single-cell genomics, wet-dry biology, and building apps."
+  description: "This is Joey's World"
   site-url: https://joeychoi1021.github.io/joey-blog/ # used for RSS links and social previews
   title: "Joey Choi"
+  
+  repo-url: https://github.com/JoeyChoi1021/joey-blog
+  repo-actions: [edit, issue]
   navbar:
     right:
-      - about.qmd
+      - Blog.qmd
+      - research.qmd
+      - analysis.qmd
+      - dailychecklist.qmd
+      #- job application.qmd
+      - text: CV
+        href: files/wonhyung-choi-cv.pdf
       - icon: github
         href: https://github.com/JoeyChoi1021
       - icon: linkedin
@@ -21,3 +32,8 @@ format:
       - cosmo
       - brand
     css: styles.css
+    toc: true
+
+# wide tables scroll sideways instead of overflowing the page (whole site)
+filters:
+  - _scroll-tables.lua

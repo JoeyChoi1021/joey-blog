@@ -1,15 +1,30 @@
 ---
-title: "Joey Choi"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "About"
+image: profile.jpg
+card-style: "summary"
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wonhyung-joeychoi/
+    - icon: github
+      text: Github
+      href: https://github.com/JoeyChoi1021
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:joeychoi9233@gmail.com
 ---
 
 
+👋 Hi, Welcome to **Joey (Wonhyung)** 's world! 
+
+I'm an interdisciplinary researcher currently studying at the University of Zurich, 
+
+I am working on genomics and method development in [Domcke Lab](https://domcke.github.io/domcke-lab.html). 
+
+My interest spans on scMultiome sequencing platform (open chromatin region and transcripts) and cell linage development
+
+About More information, please check out my [CV](files/wonhyung-choi-cv.pdf)! 
+
+Outside the lab, I enjoy hiking and cooking. I am currently also swim rookie who is eager to be swimmer.
