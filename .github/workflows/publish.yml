@@ -1,0 +1,38 @@
+# Renders the site from a clean checkout and pushes it to the gh-pages branch.
+# Only committed files are published, so anything in .gitignore (e.g. the
+# unapproved lab analyses under Analysis/) never reaches the public site.
+# Do not run `quarto publish` locally: it renders from disk and would include them.
+on:
+  push:
+    branches: main
+  workflow_dispatch:
+
+name: Render and Publish
+
+permissions:
+  contents: write # push the rendered site to gh-pages
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          version: 1.9.38 # keep in step with the local install (`quarto --version`)
+
+      - name: Render and publish to GitHub Pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
