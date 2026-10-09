@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "research/2026-10-08-hello-world/index.html",
+    "href": "research/2026-10-08-hello-world/index.html",
+    "title": "Hello, world",
+    "section": "",
+    "text": "I’m Joey (Wonhyung) Choi, an MSc Biology student at the University of Zurich. I work on single-cell chromatin accessibility: scATAC-seq and multiome (RNA + ATAC) sequencing. I do both the bench work and the analysis, so I call myself a wet-dry hybrid.\nOutside the lab I co-founded type_, a dating app, so some posts here will be about building software too."
+  },
+  {
+    "objectID": "research/2026-10-08-hello-world/index.html#why-a-blog",
+    "href": "research/2026-10-08-hello-world/index.html#why-a-blog",
+    "title": "Hello, world",
+    "section": "Why a blog?",
+    "text": "Why a blog?\nWriting things down is how I check that I actually understand them. This is where those notes go:\n\n\n\n\n\nflowchart LR\n  A[🧪 bench] --&gt; B[💻 analysis]\n  B --&gt; C[📝 write it up]\n  C -.-&gt; A"
+  },
+  {
+    "objectID": "research/2026-10-08-hello-world/index.html#what-to-expect",
+    "href": "research/2026-10-08-hello-world/index.html#what-to-expect",
+    "title": "Hello, world",
+    "section": "What to expect",
+    "text": "What to expect\n\nMethods explained with diagrams — I learn visually\nPipelines and the mistakes I made building them\nThe occasional note on shipping an app"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "👋 Hi, Welcome to Joey (Wonhyung) ’s world!\nI’m an interdisciplinary researcher currently studying at the University of Zurich,\nI am working on genomics and method development in Domcke Lab.\nMy interest spans on scMultiome sequencing platform (open chromatin region and transcripts) and cell linage development\nAbout More information, please check out my CV!\nOutside the lab, I enjoy hiking and cooking. I am currently also swim rookie who is eager to be swimmer."
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "R Markdown and friends\n\n\n\nmarkdown\n\nteaching\n\n\n\nAn experiment in using iframes and interactive slides to teach R Markdown\n\n\n\n\n\nAug 10, 2022\n\n\nJoey Choi\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Blog/2026-10-08-hello-world/index.html",
+    "href": "Blog/2026-10-08-hello-world/index.html",
+    "title": "R Markdown and friends",
+    "section": "",
+    "text": "I’m Joey (Wonhyung) Choi, an MSc Biology student at the University of Zurich. I work on single-cell chromatin accessibility: scATAC-seq and multiome (RNA + ATAC) sequencing. I do both the bench work and the analysis, so I call myself a wet-dry hybrid.\nOutside the lab I co-founded type_, a dating app, so some posts here will be about building software too."
+  },
+  {
+    "objectID": "Blog/2026-10-08-hello-world/index.html#why-a-blog",
+    "href": "Blog/2026-10-08-hello-world/index.html#why-a-blog",
+    "title": "R Markdown and friends",
+    "section": "Why a blog?",
+    "text": "Why a blog?\nWriting things down is how I check that I actually understand them. This is where those notes go:\n\n\n\n\n\nflowchart LR\n  A[🧪 bench] --&gt; B[💻 analysis]\n  B --&gt; C[📝 write it up]\n  C -.-&gt; A"
+  },
+  {
+    "objectID": "Blog/2026-10-08-hello-world/index.html#what-to-expect",
+    "href": "Blog/2026-10-08-hello-world/index.html#what-to-expect",
+    "title": "R Markdown and friends",
+    "section": "What to expect",
+    "text": "What to expect\n\nMethods explained with diagrams — I learn visually\nPipelines and the mistakes I made building them\nThe occasional note on shipping an app"
+  },
+  {
+    "objectID": "dailychecklist.html",
+    "href": "dailychecklist.html",
+    "title": "Daily checklist",
+    "section": "",
+    "text": "This page will be a check list where i can reroute my self and focus on a single task\n\n\njob application\nthesis writing\n[ ]\n[ ]"
+  },
+  {
+    "objectID": "dailychecklist.html#adhd-treatment",
+    "href": "dailychecklist.html#adhd-treatment",
+    "title": "Daily checklist",
+    "section": "",
+    "text": "This page will be a check list where i can reroute my self and focus on a single task\n\n\njob application\nthesis writing\n[ ]\n[ ]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Hello, world\n\n\n\nmeta\n\n\n\nWho I am and why I’m starting this blog.\n\n\n\n\n\nOct 8, 2026\n\n\nJoey Choi\n\n\n\n\n\nNo matching items"
+  }
+]

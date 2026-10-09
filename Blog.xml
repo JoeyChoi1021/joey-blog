@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Joey Choi</title>
+<link>https://joeychoi1021.github.io/joey-blog/Blog.html</link>
+<atom:link href="https://joeychoi1021.github.io/joey-blog/Blog.xml" rel="self" type="application/rss+xml"/>
+<description>This is Joey&#39;s World</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Wed, 10 Aug 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>R Markdown and friends</title>
+  <dc:creator>Joey Choi</dc:creator>
+  <link>https://joeychoi1021.github.io/joey-blog/Blog/2026-10-08-hello-world/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I’m Joey (Wonhyung) Choi, an MSc Biology student at the University of Zurich. I work on <strong>single-cell chromatin accessibility</strong>: scATAC-seq and multiome (RNA + ATAC) sequencing. I do both the bench work and the analysis, so I call myself a <em>wet-dry hybrid</em>.</p>
+<p>Outside the lab I co-founded <strong>type_</strong>, a dating app, so some posts here will be about building software too.</p>
+<section id="why-a-blog" class="level2">
+<h2 class="anchored" data-anchor-id="why-a-blog">Why a blog?</h2>
+<p>Writing things down is how I check that I actually understand them. This is where those notes go:</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[🧪 bench] --&gt; B[💻 analysis]
+  B --&gt; C[📝 write it up]
+  C -.-&gt; A
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<ul>
+<li>Methods explained with diagrams — I learn visually</li>
+<li>Pipelines and the mistakes I made building them</li>
+<li>The occasional note on shipping an app</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>markdown</category>
+  <category>teaching</category>
+  <guid>https://joeychoi1021.github.io/joey-blog/Blog/2026-10-08-hello-world/</guid>
+  <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

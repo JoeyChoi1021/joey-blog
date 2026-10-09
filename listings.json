@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/analysis.html",
+    "items": []
+  },
+  {
+    "listing": "/Blog.html",
+    "items": [
+      "/Blog/2026-10-08-hello-world/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/2026-10-08-hello-world/index.html"
+    ]
+  }
+]
